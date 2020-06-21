@@ -1,5 +1,15 @@
 This is the author's implementation of the PAMELI algorithm proposed in [PAMELI: A Meta-Algorithm for Computationally Expensive Multi-Objective Optimization Problems](https://arxiv.org/abs/1707.06600).
 
+## Dependencies:
+
+Known:
+
+* PyTorch 1.3.0
+* Numpy 1.17.5
+* Scikit-learn 0.22.1
+* Pygmo 2.13.0
+* PyDOE 0.3.8
+
 ## Usage example:
 
 `cd` to the directory of the repository and run:
