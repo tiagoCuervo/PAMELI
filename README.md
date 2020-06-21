@@ -8,7 +8,7 @@ This is the author's implementation of the PAMELI algorithm proposed in [PAMELI:
 
 In the current implementation you can use any of the DTLZ and WFG problems. For example to test on DTLZ2:
 
-`python run.py --problem DTLZ1`
+`python run.py --problem DTLZ2`
 
 ## Results
 PAMELI vs. KRVEA on the DTLZ problem set: 
