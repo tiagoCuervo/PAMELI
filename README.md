@@ -21,7 +21,7 @@ In the current implementation you can use any of the DTLZ and WFG problems. For 
 `python run.py --problem DTLZ2`
 
 ## Results
-PAMELI vs. [K-RVEA](https://ieeexplore.ieee.org/document/7723883) on the DTLZ problem set (from left to right and from top to bottom: DTLZ1, DTLZ2, DTLZ3, DTLZ4, DTLZ5, DTLZ6 and DTLZ7): 
+PAMELI vs. [K-RVEA](https://ieeexplore.ieee.org/document/7723883) on the DTLZ problem set (from left to right and from top to bottom: DTLZ1, DTLZ2, DTLZ3, DTLZ4, DTLZ5, DTLZ6 and DTLZ7). The curves show the evolution of the inverted generational distance (IGD) with respect to the number of objective function evaluations: 
 
 ![](PAMELIvsKRVEA.png)
 
