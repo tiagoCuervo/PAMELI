@@ -21,7 +21,7 @@ In the current implementation you can use any of the DTLZ and WFG problems. For 
 `python run.py --problem DTLZ2`
 
 ## Results
-PAMELI vs. KRVEA on the DTLZ problem set (from left to right and from top to bottom: DTLZ1, DTLZ2, DTLZ3, DTLZ4, DTLZ5, DTLZ6 and DTLZ7): 
+PAMELI vs. [K-RVEA](https://ieeexplore.ieee.org/document/7723883) on the DTLZ problem set (from left to right and from top to bottom: DTLZ1, DTLZ2, DTLZ3, DTLZ4, DTLZ5, DTLZ6 and DTLZ7): 
 
 ![](PAMELIvsKRVEA.png)
 
