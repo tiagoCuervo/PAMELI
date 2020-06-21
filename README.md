@@ -6,7 +6,7 @@ This is the author's implementation of the PAMELI algorithm proposed in [PAMELI:
 
 `python run.py --problem <PROBLEM_NAME>`
 
-In the current implementation you can use any of the DTLZ and WFG problems. For example to test on DTLZ2:
+In the current implementation you can use any of the DTLZ and WFG problems. For example, to test on DTLZ2:
 
 `python run.py --problem DTLZ2`
 
