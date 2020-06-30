@@ -16,6 +16,7 @@ __pycache__
 /misc/*
 testbench.py
 resultsdtlz.py
+dtlz_testbench.py
 resultAnalysis.py
 idxs_*.data
 data2csv.py
