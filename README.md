@@ -1,4 +1,4 @@
-This is the author's implementation of the PAMELI algorithm proposed in [PAMELI: A Meta-Algorithm for Computationally Expensive Multi-Objective Optimization Problems](https://arxiv.org/abs/1707.06600).
+This is the author's implementation of the PAMELI algorithm proposed in [PAMELI: A Meta-Algorithm for Computationally Expensive Multi-Objective Optimization Problems]() (pending publication).
 
 ## Dependencies:
 
